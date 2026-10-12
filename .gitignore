@@ -1,0 +1,11 @@
+node_modules/
+artifacts/
+cache/
+typechain-types/
+coverage/
+.env
+secrets.bat
+monitor/config.json
+dashboard/data.json
+__pycache__/
+*.pyc
