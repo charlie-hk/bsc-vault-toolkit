@@ -1,5 +1,7 @@
 # BSC Vault Toolkit
 
+![cover](cover.png)
+
 ![dashboard](dashboard/screenshot.png)
 
 A small, end-to-end DeFi project on **BNB Smart Chain testnet**: an ERC-4626 vault, a
