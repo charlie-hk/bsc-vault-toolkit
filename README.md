@@ -2,8 +2,6 @@
 
 ![cover](cover.png)
 
-![dashboard](dashboard/screenshot.png)
-
 A small, end-to-end DeFi project on **BNB Smart Chain testnet**: an ERC-4626 vault, a
 read-only Python monitor with Telegram alerts, and a static dashboard.
 
